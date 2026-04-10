@@ -13,7 +13,7 @@
 - Participating in team development and hackathons
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,docker,aws,django,flask,java,postgresql" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,docker,aws,python,django,flask,java,mysql,postgresql" />
 
 ## 📊 GitHub Stats
 <p align="left">
